@@ -12,6 +12,7 @@ import static java.lang.Thread.sleep;
 
 public class PhysicsController {
 
+    //TODO never used
     MyApplet sketch;
     private ArrayList<Magnet> magnets;
     private boolean doing;
